@@ -1,16 +1,30 @@
-### Hi there 👋
+¡Hola! 👋 Soy Miguel Angel
 
-<!--
-**MiguelMediza/MiguelMediza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Sobre mí
+- 🎓 Finalicé la carrera de Analista Programador en el CTC Rosario Uruguay.
+- 🎓 Estudiante en bachillerato en "Programación con énfasis en desarrollo web". 
+- 🖋️ Actualmente realizando la tesis final: aplicación web para gestión de inventario y presupuestos en carpintería.  
+- 📑 A lo largo de la carrera aprendí a documentar correctamente un proyecto desde el inicio hasta la entrega final.
 
-Here are some ideas to get you started:
+🛠 Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Frontend               | Backend               | Lenguajes               | Móvil                      | Bases de datos          |
+|------------------------|-----------------------|-------------------------|----------------------------|-------------------------|
+| HTML, CSS, JavaScript  | Node.js, Express      | Java, C#, C++           | Expo, React Native (taller)| MySQL, SQL Server       |
+| React, Tailwind CSS    |                       |                         |                            |                         |
+
+🚀 Proyectos Destacados
+- **Tesis Final**  
+  ● Gestión de inventario y presupuestación para carpintería.  
+  ● Frontend: React + Tailwind CSS.  
+  ● Backend: Node.js + Express.  
+
+
+
+📫 Contacto
+- ✉️ miguelamediza@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-mediza/) 
+- 🐙 [GitHub](https://github.com/MiguelMediza)
+
+⭐️ ¡Gracias por visitar mi perfil!  
+
